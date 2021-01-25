@@ -15,3 +15,9 @@
 11. Hold down new widget until options pop up
 12. Press edit widget, click script button and select the name of the script where you pasted in the code
 13. Go to widget home screen again, hold finger down, then press edit widget and select open script when interacting
+
+### Change resort
+1. Look through the code until you find the variable declaration of i
+2. Above the i it should state change this value to change ski resorts
+3. 0 = Schweizter, 1 = Squaw, 2 = Bachelor, 3 = Crystal, 4 = Whistler, 5 = Whitewater, 6 = Jackson hole, 7 = Alta, 8 = Mammoth, 9 = Revelstoke, 10 = Sun Valley, 11 = Steamboat, 12 = Aspen, 13 = Winter Park, 14 = Copper, 15 = Deer Valley, 16 = Okemo, 17 = Holiday Valley
+4. More soon to come
