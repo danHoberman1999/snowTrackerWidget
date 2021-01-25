@@ -39,7 +39,7 @@ var resorts = [schweitzer, squaw, bachelor, crystal, whistler, whitewater, jacks
 var resortNames = ['Schweitzer', 'Squaw', 'Bachelor', 'Crystal', 'Whistler', 'Whitewater', 'Jackson-hole', 'Alta', 'Mammoth', 'Revelstoke', 'Sun Valley', 'Steamboat', 'Aspen', 'Winter Park', 'Copper', 'Deer Valley', 'Okemo', 'Holiday Valley']
 
 
-var i= Math.floor(Math.random() * 18);
+// Change this value to change ski resorts
 i=0
 
 async function alert(){
